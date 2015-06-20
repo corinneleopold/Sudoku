@@ -1,0 +1,9 @@
+A project that solves a sudoku puzzle for you!
+
+This program takes in a textual representation of an initial board state and initializes a 2D array with that state. It then determines possible candidates for each empty cell and uses 2 common strategies to complete the puzzle. A draw method also creates a visual representation of the board for the user.
+
+Strategies:
+1. Naked Singles: cells which have only one possible candidate.
+2. Hidden Singles: cells which have a unique candidate for either their box, row, or column.
+
+I have included my test cases for this program.
