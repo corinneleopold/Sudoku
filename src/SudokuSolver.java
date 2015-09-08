@@ -5,7 +5,7 @@
  */
 
 public class SudokuSolver {
-		int row;
+	    int row;
 	    int column;
 	    int[][] board = new int[9][9];
 	    
