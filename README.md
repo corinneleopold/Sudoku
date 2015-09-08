@@ -1,4 +1,4 @@
-#Sudoku
+#Sudoku Solver AI
 
 ####*A program that solves a sudoku puzzle for you!*
 
